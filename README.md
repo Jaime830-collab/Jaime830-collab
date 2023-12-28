@@ -1,5 +1,7 @@
 
-### Olá,  eu sou Jaime Vaz Nogueira 👋
+### Olá,  eu sou Jaime Vaz Nogueira,
+paixonado por tecnologia, e me atualizando a cada dia,
+por meio de cursos atuais com as tecnologias mais uzadas no mundo 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaime-vaz-nogueira-9b8697249)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaimevaz.dev/)
@@ -23,7 +25,6 @@
     <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div><br/>
 
-### Apaixonado por tecnologia, e me atualizando a cada dia.
 
 ### Cursos e Bootcamps que participei:
 - [Potência Tech Ifood - Programação do Zero ](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)<br/>
