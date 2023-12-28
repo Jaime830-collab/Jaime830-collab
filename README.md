@@ -6,6 +6,10 @@
 
 ![Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime830-collab&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime830-collab&hide_progress=true)
+
+
+
 ### Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block">
