@@ -1,6 +1,6 @@
 
 ### Olá,  eu sou Jaime Vaz Nogueira, 👋
-Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, e me atualizando a cada dia,
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, e me atualizando a cada dia,
 por meio de cursos atuais com as tecnologias mais usadas no mundo 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaime-vaz-nogueira-9b8697249)
