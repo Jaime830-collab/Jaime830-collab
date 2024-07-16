@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 por meio de cursos atuais com as tecnologias mais usadas no mundo 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaime-vaz-nogueira-9b8697249)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaimevaz.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaime_vaz.dev/)
 
 ![Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime830-collab&show_icons=true&theme=tokyonight)
 
